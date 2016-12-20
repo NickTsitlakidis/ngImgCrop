@@ -4,6 +4,7 @@
     "email": "alexkaul@googlemail.com"
   },
   "name": "ng-img-crop",
+  "main": "./compile/unminified/ng-img-crop.js",
   "prettyName": "ngImgCrop",
   "version": "0.3.2",
   "description": "Image crop directive for AngularJS",
